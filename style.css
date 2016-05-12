@@ -1,0 +1,80 @@
+
+.logo {
+  color: #0F52BA;
+  font-size: 90px;
+  margin-left: 10px;
+}
+
+p {
+    color: grey;
+
+}
+
+.asd {
+    margin-top: 60px;
+}
+
+h1 {
+    color: #ffc107;
+}
+
+.bb {
+    margin-top: 30px;
+}
+
+.buttons {
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.pager {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    margin-bottom: 50px;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.kopia {
+    padding-top: 50px;
+    font-size: 12px;
+}
+
+.logo1 {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.visit {
+    margin-top: 6px;
+}
+
+.login {
+    margin-left: 15px;
+    line-height: 1cm;
+}
+
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
+.image {
+    margin-top: 40px;
+}
+
+h4 {
+    color: #ffffff;
+    text-decoration: bolder;
+}
+
+.btn-primary {
+    margin-top: 8px;
+    margin-right: -30px;
+    margin-left: 15px;
+}
